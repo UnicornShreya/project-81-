@@ -1,0 +1,16 @@
+h1
+{
+	color: white; 
+	font-size: 40px;
+}
+.body_backgorund {
+	background-image: url("5bd1db5504fce-wallpaper-preview.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+#myCanvas{
+border-width: 10px;
+background-color: white;
+border-style: ridge;
+}
